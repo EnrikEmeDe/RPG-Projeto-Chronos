@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"personagem1","characterIndex":0,"characterName":"Personagem 1","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Personagem1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tales","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"personagem2","characterIndex":0,"characterName":"Personagem 2","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Personagem2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vera","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"personagem3","characterIndex":0,"characterName":"Personagem 3","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Personagem3","traits":[],"initialLevel":1,"maxLevel":99,"name":"César","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"personagem4","characterIndex":0,"characterName":"Personagem 4","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Personagem4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elisa","nickname":"","note":"","profile":""}
+]
