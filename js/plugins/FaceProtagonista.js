@@ -20,4 +20,7 @@ var _Window_Base_convertEscapeCharacters = Window_Base.prototype.convertEscapeCh
         }
         return _Window_Base_convertEscapeCharacters.call(this, text);
     };
+Spriteset_Battle.prototype.compareEnemySprite = function(a, b) {
+        return a.spriteId - b.spriteId;
+    };
 })();
