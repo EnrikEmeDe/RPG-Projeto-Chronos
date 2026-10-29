@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Sala de Convívio Instituto Central","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":1,"expanded":true,"name":"Sala de Convívio Instituto Central","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":false,"name":"Laboratório Instituto Central","order":2,"parentId":0,"scrollX":540.6666666666666,"scrollY":499.3333333333333},
 {"id":3,"expanded":true,"name":"Pádua","order":3,"parentId":0,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
 {"id":4,"expanded":false,"name":"Oficina Galileu","order":4,"parentId":3,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
